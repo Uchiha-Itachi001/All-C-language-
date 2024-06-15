@@ -1,0 +1,11 @@
+  printf("information of %d student :\n",i+1);
+    printf("enter the name : ");
+    scanf("%s",arr[i].name);
+    printf("enter the roll number  : ");
+    scanf("%d",&arr[i].roll);
+    printf("enter the course : ");
+    scanf("%s",arr[i].course);
+    printf("enter the department : ");
+    scanf("%s",arr[i].department);
+    printf("enter the year : ");
+    scanf("%d",&arr[i].year);

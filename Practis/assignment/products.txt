@@ -1,0 +1,5 @@
+Product Code: 12345, Cost: 1214.00, Items Available: 2314
+Product Code: 12145, Cost: 2174.00, Items Available: 2345
+Product Code: 1524, Cost: 1244.00, Items Available: 21145
+Product Code: 2115, Cost: 152145.00, Items Available: 3134
+Product Code: 15245, Cost: 124.00, Items Available: 2145

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "1ST.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp",
+        "stdio.h": "c",
+        "string.h": "c",
+        "limits.h": "c",
+        "cstdio": "c"
+    },
+    "code-runner.clearPreviousOutput": true
+}

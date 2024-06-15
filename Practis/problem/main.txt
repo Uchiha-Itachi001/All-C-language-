@@ -1,0 +1,4 @@
+ : RS : 23 
+(1) Product name :     : RS : 23 
+(2) Product name : cd "c:\Users\hp\OneDrive\Desktop\c coding\Practis\" ; if ($?) { gcc p.c -o p } ; if ($?) { .\p }    : RS : 0 
+(3) Product name : cd "c:\Users\hp\OneDrive\Desktop\c coding\Practis\" ; if ($?) { gcc p.c -o p } ; if ($?) { .\p }   

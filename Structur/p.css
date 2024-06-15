@@ -1,0 +1,11 @@
+body{@grid: 50x1 / 100%;
+
+@place: center;
+@size: calc(75% / @I * @i);
+
+ transform: rotate(calc(@i * 5deg));
+
+ border-radius: 30%;
+border: 1px solid hsla(
+  calc(10 + 4 * @i), 70%, 68%, @r.8
+);}
