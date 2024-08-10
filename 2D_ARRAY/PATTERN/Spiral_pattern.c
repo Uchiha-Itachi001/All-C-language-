@@ -5,7 +5,7 @@ void spiralFill(int m, int n, int a[m][n]) {
     int val = 1;
 
     while (k < m && l < n) {
-
+        
         for (i = l; i < n; ++i) {
             a[k][i] = val++;
         }
