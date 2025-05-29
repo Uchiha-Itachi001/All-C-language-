@@ -1,36 +1,35 @@
-# All C Language Programs
+<h1 align="center">🌟 All C Language Programs 🌟</h1>
 
-> **A comprehensive collection of C language programs, organized by topic and difficulty.**
-
----
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Uchiha-Itachi001/All-C-language-" alt="License">
-  <img src="https://img.shields.io/github/followers/Uchiha-Itachi001?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Uchiha-Itachi001/All-C-language-?style=social" alt="GitHub Stars">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="80" alt="C Language Logo"/>
 </p>
 
 ---
 
 ## 📂 Repository Structure
 
-| Folder                       | Description                                      |
-|------------------------------|--------------------------------------------------|
-| **2D_ARRAY/**                | 2D array operations, rotations, sums, etc.       |
-| **ARRAY/**                   | Array manipulation and algorithms                |
-| **Binary/**                  | Binary operations and conversions                |
-| **Dinamic_mamory_allacation/** | Dynamic memory allocation examples             |
-| **File_handaling/**          | File handling in C                               |
-| **FUN/**                     | Fun and miscellaneous programs                   |
-| **FUNCTION/**                | Function usage and examples                      |
-| **If_else_statement/**       | Conditional statements                           |
-| **LOOP/**                    | Looping constructs and patterns                  |
-| **Pointer/**                 | Pointer operations and examples                  |
-| **Practis/**                 | Practice problems and solutions                  |
-| **Sorting/**                 | Sorting algorithms                               |
-| **String/**                  | String manipulation                              |
-| **Structur/**                | Structure usage in C                             |
-| **java_script/**             | JavaScript practice files (for reference)        |
+<table>
+  <tr>
+    <th>Folder</th>
+    <th>Description</th>
+  </tr>
+  <tr><td><b>2D_ARRAY/</b></td><td>2D array operations, rotations, sums, etc.</td></tr>
+  <tr><td><b>ARRAY/</b></td><td>Array manipulation and algorithms</td></tr>
+  <tr><td><b>Binary/</b></td><td>Binary operations and conversions</td></tr>
+  <tr><td><b>Dinamic_mamory_allacation/</b></td><td>Dynamic memory allocation examples</td></tr>
+  <tr><td><b>File_handaling/</b></td><td>File handling in C</td></tr>
+  <tr><td><b>FUN/</b></td><td>Fun and miscellaneous programs</td></tr>
+  <tr><td><b>FUNCTION/</b></td><td>Function usage and examples</td></tr>
+  <tr><td><b>If_else_statement/</b></td><td>Conditional statements</td></tr>
+  <tr><td><b>LOOP/</b></td><td>Looping constructs and patterns</td></tr>
+  <tr><td><b>Pointer/</b></td><td>Pointer operations and examples</td></tr>
+  <tr><td><b>Practis/</b></td><td>Practice problems and solutions</td></tr>
+  <tr><td><b>Sorting/</b></td><td>Sorting algorithms</td></tr>
+  <tr><td><b>String/</b></td><td>String manipulation</td></tr>
+  <tr><td><b>Structur/</b></td><td>Structure usage in C</td></tr>
+  <tr><td><b>java_script/</b></td><td>JavaScript practice files (for reference)</td></tr>
+</table>
 
 ---
 
@@ -51,8 +50,9 @@ git clone https://github.com/Uchiha-Itachi001/All-C-language-.git
 
 ## 📚 About
 
-This repository is maintained by [Uchiha-Itachi001](https://github.com/Uchiha-Itachi001).  
-**Author:** Pankoj  
+> **Maintainer:** [Uchiha-Itachi001](https://github.com/Uchiha-Itachi001)  
+> **Author:** Pankoj
+
 Feel free to explore, use, and contribute!
 
 - **GitHub Repo:** [All-C-language-](https://github.com/Uchiha-Itachi001/All-C-language-.git)
